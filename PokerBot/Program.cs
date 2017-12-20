@@ -32,7 +32,6 @@ namespace PokerBot
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-            .UseUrls("http://*:2300;")
                 .UseStartup<Startup>()
                 .Build();
     }

@@ -1,0 +1,4559 @@
+command: CARD, data: A
+command: CARD, data: A
+command: CARD, data: A
+Opponent: chegwin2
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:20
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:25
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:151
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:250
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:347
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:440
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:106
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:124
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: BET:142
+command: OPPONENT_CARD, data: Q
+command: RECEIVE_CHIPS, data: 176
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:712
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:147
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:152
+move: BET:1000
+command: OPPONENT_CARD, data: Q
+command: RECEIVE_CHIPS, data: 52
+command: GAME_OVER, data: 
+Opponent: Robusto
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 98
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: GAME_OVER, data: 
+Opponent: goker
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: CALL
+command: OPPONENT_CARD, data: Q
+command: RECEIVE_CHIPS, data: 194
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 19
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: BET:1000
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 21
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: CALL
+command: OPPONENT_CARD, data: 2
+command: RECEIVE_CHIPS, data: 48
+command: GAME_OVER, data: 
+Opponent: Whatchagot
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: GAME_OVER, data: 
+Opponent: allinordie
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: BET:1000
+command: OPPONENT_MOVE, data: CALL
+command: OPPONENT_CARD, data: 8
+command: RECEIVE_CHIPS, data: 196
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:100000
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:100000
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:100000
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:3
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET:100000
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: CALL
+move: FOLD
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: FOLD
+command: RECEIVE_CHIPS, data: 1
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: CALL
+command: OPPONENT_CARD, data: 9
+command: RECEIVE_CHIPS, data: 78
+command: GAME_OVER, data: 
+Opponent: HanYolo
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: BET
+command: OPPONENT_CARD, data: 2
+command: RECEIVE_CHIPS, data: 180
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: J
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 8
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: K
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: Q
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: T
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 7
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 5
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 3
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 4
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 6
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 9
+command: RECEIVE_BUTTON, data: 
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: 2
+command: POST_BLIND, data: 
+command: OPPONENT_MOVE, data: BET
+move: FOLD
+command: RECEIVE_CHIPS, data: 0
+command: CARD, data: A
+command: RECEIVE_BUTTON, data: 
+move: BET:1000
+command: OPPONENT_MOVE, data: BET
+command: OPPONENT_CARD, data: 2
+command: RECEIVE_CHIPS, data: 114
+command: GAME_OVER, data: 

@@ -16,7 +16,7 @@
       }
     },
     "PokerBot": {
-      "commandName": "Project",
+      "commandName": "Executable",
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {

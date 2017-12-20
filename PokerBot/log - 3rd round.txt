@@ -1,0 +1,414 @@
+Opponent: allinordie
+UPDATE@ opponent: allinordie, command: CARD, data: 2
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 8
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: BET:20
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 6
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 9
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: allinordie, command: CARD, data: 4
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 3
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: allinordie, command: CARD, data: 9
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 2
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: BET:20
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 5
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 9
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: allinordie, command: CARD, data: 6
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: 5
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: allinordie, command: CARD, data: 7
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: allinordie, command: CARD, data: A
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: CALL
+MOVE@ opponent:allinordie, move:BET:1000
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 98
+UPDATE@ opponent: allinordie, command: CARD, data: K
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+MOVE@ opponent:allinordie, move:BET:25
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 26
+UPDATE@ opponent: allinordie, command: CARD, data: 5
+UPDATE@ opponent: allinordie, command: POST_BLIND, data: 
+UPDATE@ opponent: allinordie, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: allinordie, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: allinordie, command: CARD, data: 5
+UPDATE@ opponent: allinordie, command: RECEIVE_BUTTON, data: 
+Opponent: WhaleOil-BeefHooked
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: K
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 6
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 2
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 2
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 3
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 7
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 5
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 2
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: K
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+MOVE@ opponent:WhaleOil-BeefHooked, move:BET:25
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_CARD, data: T
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 52
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 8
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 3
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 7
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: 2
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: K
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_BUTTON, data: 
+MOVE@ opponent:WhaleOil-BeefHooked, move:BET:25
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: WhaleOil-BeefHooked, command: RECEIVE_CHIPS, data: 26
+UPDATE@ opponent: WhaleOil-BeefHooked, command: CARD, data: J
+UPDATE@ opponent: WhaleOil-BeefHooked, command: POST_BLIND, data: 
+UPDATE@ opponent: WhaleOil-BeefHooked, command: OPPONENT_MOVE, data: BET
+Opponent: Robusto
+UPDATE@ opponent: Robusto, command: CARD, data: 5
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: T
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 4
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 2
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 5
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 2
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 5
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 8
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: T
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: T
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 3
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 3
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 8
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 2
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 3
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 6
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: T
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: 5
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 9
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Robusto, command: CARD, data: Q
+UPDATE@ opponent: Robusto, command: POST_BLIND, data: 
+UPDATE@ opponent: Robusto, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: Robusto, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: Robusto, command: CARD, data: 3
+UPDATE@ opponent: Robusto, command: RECEIVE_BUTTON, data: 
+Opponent: goker
+UPDATE@ opponent: goker, command: CARD, data: 2
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 3
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: goker, command: CARD, data: 3
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 7
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 2
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 8
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 2
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: J
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 5
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: Q
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 9
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 4
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 5
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 5
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 8
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: 3
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 5
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: goker, command: CARD, data: K
+UPDATE@ opponent: goker, command: POST_BLIND, data: 
+UPDATE@ opponent: goker, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: goker, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: goker, command: CARD, data: 6
+UPDATE@ opponent: goker, command: RECEIVE_BUTTON, data: 
+Opponent: Whatchagot
+UPDATE@ opponent: Whatchagot, command: CARD, data: 7
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Whatchagot, command: CARD, data: 2
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: CARD, data: 8
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Whatchagot, command: CARD, data: 6
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: CARD, data: 8
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Whatchagot, command: CARD, data: 7
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: CARD, data: Q
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Whatchagot, command: CARD, data: 3
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: CARD, data: 3
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: Whatchagot, command: CARD, data: 4
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: CARD, data: K
+UPDATE@ opponent: Whatchagot, command: RECEIVE_BUTTON, data: 
+MOVE@ opponent:Whatchagot, move:BET:25
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: Whatchagot, command: OPPONENT_CARD, data: 6
+UPDATE@ opponent: Whatchagot, command: RECEIVE_CHIPS, data: 50
+UPDATE@ opponent: Whatchagot, command: CARD, data: 2
+UPDATE@ opponent: Whatchagot, command: POST_BLIND, data: 
+UPDATE@ opponent: Whatchagot, command: OPPONENT_MOVE, data: CALL
+Opponent: chegwin2
+UPDATE@ opponent: chegwin2, command: CARD, data: 2
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 9
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 8
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 4
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 9
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 3
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 5
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 2
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 3
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 7
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: Q
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 5
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 3
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: Q
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 6
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 5
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 5
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 4
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 2
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 2
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: chegwin2, command: CARD, data: 6
+UPDATE@ opponent: chegwin2, command: POST_BLIND, data: 
+UPDATE@ opponent: chegwin2, command: OPPONENT_MOVE, data: FOLD
+UPDATE@ opponent: chegwin2, command: RECEIVE_CHIPS, data: 1
+UPDATE@ opponent: chegwin2, command: CARD, data: 3
+UPDATE@ opponent: chegwin2, command: RECEIVE_BUTTON, data: 
+Opponent: HanYolo
+UPDATE@ opponent: HanYolo, command: CARD, data: 2
+UPDATE@ opponent: HanYolo, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: HanYolo, command: CARD, data: 6
+UPDATE@ opponent: HanYolo, command: POST_BLIND, data: 
+UPDATE@ opponent: HanYolo, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: HanYolo, command: CARD, data: A
+UPDATE@ opponent: HanYolo, command: RECEIVE_BUTTON, data: 
+MOVE@ opponent:HanYolo, move:BET:1000
+UPDATE@ opponent: HanYolo, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: HanYolo, command: OPPONENT_CARD, data: 2
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 198
+UPDATE@ opponent: HanYolo, command: CARD, data: 2
+UPDATE@ opponent: HanYolo, command: POST_BLIND, data: 
+UPDATE@ opponent: HanYolo, command: OPPONENT_MOVE, data: BET
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: HanYolo, command: CARD, data: 2
+UPDATE@ opponent: HanYolo, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 0
+UPDATE@ opponent: HanYolo, command: CARD, data: A
+UPDATE@ opponent: HanYolo, command: POST_BLIND, data: 
+UPDATE@ opponent: HanYolo, command: OPPONENT_MOVE, data: BET
+MOVE@ opponent:HanYolo, move:BET:1000
+UPDATE@ opponent: HanYolo, command: OPPONENT_MOVE, data: CALL
+UPDATE@ opponent: HanYolo, command: OPPONENT_CARD, data: 2
+UPDATE@ opponent: HanYolo, command: RECEIVE_CHIPS, data: 6
+UPDATE@ opponent: HanYolo, command: GAME_OVER, data: 
+Opponent: TestingYourServer
+UPDATE@ opponent: TestingYourServer, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: TestingYourServer, command: CARD, data: A
+UPDATE@ opponent: TestingYourServer, command: OPPONENT_MOVE, data: CALL
+MOVE@ opponent:TestingYourServer, move:BET:1000
+Opponent: TestingYourServer
+UPDATE@ opponent: TestingYourServer, command: RECEIVE_BUTTON, data: 
+UPDATE@ opponent: TestingYourServer, command: CARD, data: A
+UPDATE@ opponent: TestingYourServer, command: OPPONENT_MOVE, data: CALL
+MOVE@ opponent:TestingYourServer, move:BET:1000
