@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace PokerBot.Controllers
+namespace PokerBot
 {
     [Route("poker")]
     public class PokerController : Controller
@@ -93,13 +93,13 @@ namespace PokerBot.Controllers
 
         public int OurChips { get; set; }
         public Card OurCard { get; set; }
-        public List<string> OurMove { get; } = new List<string>();
-        public string OurLastMove => OurMove.LastOrDefault();
+        private List<string> OurMove { get; } = new List<string>();
+        private string OurLastMove => OurMove.LastOrDefault();
 
-        public int OpponentChips => Pool - OurChips;
+        private int OpponentChips => Pool - OurChips;
         public string OpponentCard { get; set; }
         public List<string> OpponentMove { get; } = new List<string>();
-        public string OpponentLastMove => OpponentMove.LastOrDefault();
+        private string OpponentLastMove => OpponentMove.LastOrDefault();
         public string OpponentName { get; set; }
 
         public int HandLimit { get; set; }
@@ -145,22 +145,7 @@ namespace PokerBot.Controllers
 
         private bool IsHuman()
         {
-            return (OpponentName == "allinordie" || OpponentName == "goker" || OpponentName == "chegwin2");
+            return OpponentName == "allinordie" || OpponentName == "goker" || OpponentName == "chegwin2";
         }
-    }
-
-    public class PokerStartingOptions
-    {
-        public string OPPONENT_NAME { get; set; }
-        public int STARTING_CHIP_COUNT { get; set; }
-        public int HAND_LIMIT { get; set; }
-        public int BIG_BLIND { get; set; }
-        public int SMALL_BLIND { get; set; }
-    }
-
-    public class PokerUpdate
-    {
-        public string Command { get; set; }
-        public string Data { get; set; }
     }
 }
